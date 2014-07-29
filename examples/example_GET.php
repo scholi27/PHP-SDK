@@ -8,7 +8,7 @@
 
 require_once "../libs/Ondango.php";
 
-$api_key = "YOUR API KEY";
+$api_key = "5392214b1e87b69da20ad0af9c5d542e9a1b2715";
 $api_secret = "YOUR SECRET KEY";	// optional
 $ondango = new Ondango ($api_key, $api_secret);
 
